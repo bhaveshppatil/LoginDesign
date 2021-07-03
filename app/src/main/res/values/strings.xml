@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Screen Design</string>
+    <string name="create_account">Create account</string>
+    <string name="alma_lawson_example_com">alma.lawson@example.com</string>
+    <string name="jane_cooper">Jane Cooper</string>
+    <string name="password_minimum_6_characters">Password (minimum 6 characters)</string>
+    <string name="password">Password</string>
+    <string name="use_phone_number">Use Phone Number</string>
+    <string name="login">Login</string>
+</resources>
